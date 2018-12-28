@@ -3,6 +3,11 @@
 Analysis of genotypic data of 84 chiropteran residents of an urban tree-roosting colony.
 All individuals were genotyped at 11 microsatelite loci.
 
+All analyses were conducted in python using jupyter notebook. follow the link below to examine the notebook
+using NBviewer.
+
+- [jupyter link](https://nbviewer.jupyter.org/github/SantosJGND/Nlas/blob/master/Seville_analyses.ipynb)
+
 #### Pre-processing details:
 
 All but three markers were in linkage equilibrium as assessed with FSTAT v. 2.9.3.2 (Goudet et al., 2001).
