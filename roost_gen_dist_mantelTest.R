@@ -16,3 +16,4 @@ roost_data <- dist(roost_data)
 
 ## perform mantel test.
 mantel.rtest(roost_data, gen_data, nrepet = 9999)
+
